@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.livescore.scraper</groupId>
-  <artifactId>livescorescraper</artifactId>
+  <groupId>com.codetriage.scraper</groupId>
+  <artifactId>codetriagescraper</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -55,7 +55,7 @@
                           <transformers>
                               <transformer
                                       implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                  <mainClass>com.livescore.scraper.App</mainClass>
+                                  <mainClass>com.codetriage.scraper.App</mainClass>
                               </transformer>
                           </transformers>
                       </configuration>
