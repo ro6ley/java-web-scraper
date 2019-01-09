@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/ro6ley/java-web-scraper.svg)](http://hits.dwyl.io/ro6ley/java-web-scraper)
+
 # Web Scraping the Java Way
 
 This repository contains the code for this [blogpost]() on [StackAbuse](https://stackabuse.com/).
