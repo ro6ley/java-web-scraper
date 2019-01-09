@@ -37,7 +37,7 @@ java -jar target/codetriagescraper-1.0-SNAPSHOT.jar
 
 ## Contribution
 
-Please feel free to raise issues on this repo and I'll get back to you.
+Please feel free to raise issues using this [template](./.github/ISSUE_TEMPLATE.md) and I'll get back to you.
 
-You can also fork the repository, make changes and submit a Pull Request.
+You can also fork the repository, make changes and submit a Pull Request using this [template](./.github/PULL_REQUEST_TEMPLATE.md).
 
