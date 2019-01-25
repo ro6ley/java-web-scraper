@@ -10,8 +10,7 @@
   <packaging>jar</packaging>
 
   <name>livescorescraper</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://stackabuse.com/web-scraping-the-java-way/</url>
 
   <properties>
       <!-- https://maven.apache.org/general.html#encoding-warning -->
