@@ -8,12 +8,15 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
- * The class that will handle the scraping
- *
+ * Our scraper class
  */
 public class App {
 
-  public static void main( String[] args ) {
+  /**
+   * The main method of our class, which will also house the scraping
+   * functionality.
+   */
+  public static void main(String[] args) {
 
     try {
       /**
