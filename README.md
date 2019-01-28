@@ -2,7 +2,7 @@
 
 # Web Scraping the Java Way
 
-This repository contains the code for this [blogpost]() on [StackAbuse](https://stackabuse.com/).
+This repository contains the code for this [blogpost](https://stackabuse.com/web-scraping-the-java-way/) on [StackAbuse](https://stackabuse.com/).
 
 ## Getting Started
 
