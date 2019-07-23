@@ -56,7 +56,7 @@ public class App {
         String repositoryGithubName = repository.getElementsByClass("repo-item-full-name").text();
 
         /**
-         * The reposiory full name contains brackets that we remove first
+         * The repository full name contains brackets that we remove first
          * before generating the valif Github link.
          */
         String repositoryGithubLink = "https://github.com/" + repositoryGithubName.replaceAll("[()]", "");
